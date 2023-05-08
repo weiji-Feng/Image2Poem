@@ -55,7 +55,7 @@ python img2poem.py --image_path ./datasets/images/feiliu.jpg --model_type T5 --m
 飞鹤度湖山，青松半掩关。丹壑千人在，犹记林水心。	
 ````
 
-<img src="./datasets/images/chun.jpg" alt="image-20230408233621777" width="50%" height="50%" />
+<img src="./datasets/images/chun.jpg" alt="image-20230408233621777" width="40%" height="40%" />
 
 ````
 犹自在藏新，不知是旧人。暮天三百年，桃源一片春。
