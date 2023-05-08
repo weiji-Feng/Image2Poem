@@ -18,8 +18,10 @@
 | 模型名称              | 下载地址                                                                                            | 参数量  |
 |-------------------|-------------------------------------------------------------------------------------------------|------|
 | CN-CLIP(ViT-B/16) | [download](https://drive.google.com/drive/folders/1zPgpXL-2WZ8vzKmyaHb5-jff8XaHwSRv?usp=sharing) | 188M |
-| T5                | [download](https://drive.google.com/drive/folders/1zPgpXL-2WZ8vzKmyaHb5-jff8XaHwSRv?usp=sharing) | 14M  |
-| GPT2              | [download](https://drive.google.com/drive/folders/1zPgpXL-2WZ8vzKmyaHb5-jff8XaHwSRv?usp=sharing) | 10M  |
+| T5                | [download](https://drive.google.com/drive/folders/1zPgpXL-2WZ8vzKmyaHb5-jff8XaHwSRv?usp=sharing) | 223M  |
+| GPT2              | [download](https://drive.google.com/drive/folders/1zPgpXL-2WZ8vzKmyaHb5-jff8XaHwSRv?usp=sharing) | 118M  |
+
+其他版本的CN-CLIP可从下面`引用和致谢`的第二条链接中获取，或是去HuggingFace官网查询。
 
 ## 2. 引用和致谢
 在项目完成期间，我参考并使用了以下项目，这里表示感谢！
