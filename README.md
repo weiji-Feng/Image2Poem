@@ -9,7 +9,7 @@
 
 ![img.png](https://github.com/openai/CLIP/raw/main/CLIP.png)
 
-由于古诗的特殊性，本项目重头训练了一个用于生成古诗文的Language Model，尝试了T5 model和GPT2 model，暂时认为T5 model的效果更佳，现公开该预训练模型以供使用。
+由于古诗的特殊性，本项目重头训练了一个用于生成古诗文的Language Model，尝试了T5 model和GPT2 model，暂时认为T5 model的效果更佳(使用模型的参数量也更大)，现公开该预训练模型以供使用。
 
 **以上模型均可通过调用 https://github.com/huggingface/transformers 的`transformers`导入**。
 
