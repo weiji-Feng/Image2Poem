@@ -62,7 +62,7 @@ python img2poem.py --image_path ./datasets/images/feiliu.jpg --model_type T5 --m
 数年三两枝，却羡玉龙飞。桃源水一津，斜晖又一年。	
 却见斜阳里，桃源几度花。一曲龙惊散，谁似玉皇家。
 千骑鹤归飞，一曲茅亭去。天上桃源路，玉龙归白杳。
-相逢一笑飞，知有桃源人。何如写玉龙，斜晖送晚风
+相逢一笑飞，知有桃源人。何如写玉龙，斜晖送晚风。
 ````
 <img src="./datasets/images/pubu.jpg" alt="image-20230408233621777" style="zoom:90%;" />
 
