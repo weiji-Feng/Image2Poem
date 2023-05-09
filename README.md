@@ -76,7 +76,7 @@ python img2poem.py --image_path ./datasets/images/feiliu.jpg --model_type T5 --m
 谁人识此中，布泉老客行。月满江来路，不须频为谁。
 ````
 
-## 2. 文件结构
+## 4. 文件结构
 ````
 │  img2poem.py      # 生成古诗的文件
 │  README.md
@@ -107,7 +107,7 @@ python img2poem.py --image_path ./datasets/images/feiliu.jpg --model_type T5 --m
         __init__.py
 ````
 
-## 4. 一些解释
+## 5. 一些解释
 * 对于当前项目的评价
 > 提取关键词进行古诗生成是一个**损失信息**的过程，尤其是将图像映射到关键词的操作，损失了图像原本的语义(例如只能识别人，而不知道人在做什么)。所以效果上来看仍然差强人意。
 >
