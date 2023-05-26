@@ -137,6 +137,6 @@ python img2poem.py --image_path ./datasets/images/feiliu.jpg --model_type T5 --m
 >
 > 由于`图像-古诗对`数据集非常匮乏，似乎暂时做不到删去这个闭环关键词数据集。未来如果有充足的数据集，我会使用`CLIP-MappingNet-T5/GPT2`的模型架构进行训练，例如下图的[CLIPCap](https://arxiv.org/pdf/2111.09734.pdf)架构：
 > 
-![](https://cdn-images-1.medium.com/max/800/1*8RLzDpMfi6sLScqx2SguaA.png)
+![](./datasets/images/ourwork.png)
 
 未来有古诗生成图像的想法，待进一步更新。现有的可以进行古诗生成图像的项目有：https://huggingface.co/IDEA-CCNL/Taiyi-Diffusion-532M-Nature-Chinese
