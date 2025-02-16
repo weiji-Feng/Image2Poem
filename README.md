@@ -1,5 +1,5 @@
 # Image-to-Poem
-9.28之前可能会忙于升学，本项目暂不更新。<font color=red>**<u>希望可以在10.31号之前完成这个项目的全部功能。</u>**</font>
+一个小小的多模态古诗生成器，感兴趣尝试做了一段时间。
 
 ## 1. 项目介绍
 图像生成古诗(Image to Poem)，旨在为给定的图像自动生成符合图像内容的古诗句。
@@ -140,3 +140,18 @@ python img2poem.py --image_path ./datasets/images/feiliu.jpg --model_type T5 --m
 ![](./datasets/images/ourwork.png)
 
 未来有古诗生成图像的想法，待进一步更新。现有的可以进行古诗生成图像的项目有：https://huggingface.co/IDEA-CCNL/Taiyi-Diffusion-532M-Nature-Chinese
+
+## 5. Citation
+
+Please cite the repo if the model/code/conclusion in this repo are helpful to you.
+
+```
+@misc{img2poem,
+  author = {Feng, Kehua},
+  title = {Visions to Verses: Generating Poetry from Images via CLIP Mapping},
+  year = {2023},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/weiji-Feng/Image2Poem}},
+}
+```
